@@ -1,4 +1,4 @@
-#Predicting Algae Blooms
+Predicting Algae Blooms
 
 This case study will introduce you to some basic tasks of data mining: data
 pre-processing, exploratory data analysis, and predictive model construction.
@@ -6,7 +6,7 @@ For this initial case study we have selected a small problem by data mining
 standards. Namely, we are addressing the problem of predicting the frequency
 occurrence of several harmful algae in water samples. 
 
-#Problem Description and Objectives
+Problem Description and Objectives
 
 High concentrations of certain harmful algae in rivers constitute a serious
 ecological problem with a strong impact not only on river lifeforms, but also
