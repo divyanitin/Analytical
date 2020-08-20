@@ -34,3 +34,5 @@ factors influencing the algae frequencies. Namely, we want to understand how
 these frequencies are related to certain chemical attributes of water samples 
 as well as other characteristics of the samples (like season of the year, type of
 river, etc.).
+
+R programming, machine learning models such as multiple regression, random forest,  and regression trees were built.
